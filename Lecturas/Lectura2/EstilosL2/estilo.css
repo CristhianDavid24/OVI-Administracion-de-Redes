@@ -1,0 +1,72 @@
+*{
+
+  margin:0px; 
+  padding:0px; 
+  box-sizing:border-box;
+  font-family:sans-serif;  
+}
+
+main{
+
+	width:100%; 
+	height:auto;
+	background:white;  
+	position: absolute;
+}
+
+.content-all{
+
+	width:100%;
+	max-width:1000px;
+	background:#7c3862;   
+	margin :auto;/*centrar el contenido*/
+	margin-top:80px; 
+	border: 2px solid white; 
+}
+
+
+article{
+
+padding:40px; 
+
+}
+
+article h1{
+
+font-size:30px;
+color:white;
+font-weight:100;   
+
+}
+
+article .parrafo1{
+
+	font-size:20px;
+	color:white;
+	margin-top: 40px; 
+}
+
+article img{
+
+
+width:50%;
+margin-top:20px;  
+margin-left:220px; 
+border : 4px solid white; 
+}
+
+article .parrafo2{
+
+margin-top:20px;
+font-size:18px; /*Tamaño de la letra*/
+color:white;  
+letter-spacing:1px; 
+
+}
+
+.titulo{
+	font-size:20px; 
+}
+.Fuente{
+	font-size:15px; 
+}
